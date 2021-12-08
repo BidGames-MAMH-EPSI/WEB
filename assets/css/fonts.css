@@ -1,0 +1,40 @@
+/*************************************POPPINS***************************************/
+
+@font-face {
+    font-family: 'poppins_light';
+    src: url('../fonts/Poppins/poppins-light-webfont.woff2') format('woff2'),
+    url('../fonts/Poppins/poppins-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'poppins_regular';
+    src: url('../fonts/Poppins/poppins-regular-webfont.woff2') format('woff2'),
+    url('../fonts/Poppins/poppins-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'poppins_medium';
+    src: url('../fonts/Poppins/poppins-medium-webfont.woff2') format('woff2'),
+    url('../fonts/Poppins/poppins-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'poppins_semibold';
+    src: url('../fonts/Poppins/poppins-semibold-webfont.woff2') format('woff2'),
+    url('../fonts/Poppins/poppins-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/**********************************************************************************/
+
